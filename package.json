@@ -1,0 +1,16 @@
+{
+  "name": "asincronismo-javascript",
+  "version": "1.0.0",
+  "description": "Asincronismo con JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node callback/index.js"
+  },
+  "keywords": [
+    "callback",
+    "promises",
+    "async"
+  ],
+  "author": "Sebastian Rodriguez Ardila",
+  "license": "MIT"
+}
