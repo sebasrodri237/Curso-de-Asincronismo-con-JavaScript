@@ -12,5 +12,8 @@
     "async"
   ],
   "author": "Sebastian Rodriguez Ardila",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
